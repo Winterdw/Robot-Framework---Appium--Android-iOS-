@@ -10,6 +10,7 @@ Este projeto contém uma suíte de testes automatizados para aplicações mobile
 - [Python 3.x](https://www.python.org/)
 - [Appium-Python-Client](https://pypi.org/project/Appium-Python-Client/)
 - [Android SDK](https://developer.android.com/studio) ou [Xcode](https://developer.apple.com/xcode/) (para iOS)
+- [MongoDB](https://www.mongodb.com)
 - Emulador Android ou dispositivo real
 
 ## ⚙️ Pré-requisitos
@@ -18,6 +19,7 @@ Antes de rodar os testes, você precisa:
 
 1. Ter o Python 3.x instalado
 2. Instalar o Appium Server (GUI ou via npm)
-3. Ter um emulador Android configurado ou dispositivo físico conectado
-4. (Opcional, mas recomendado) Ter o Appium Inspector para facilitar a inspeção de elementos
+3. Instalar a Api para rodar os testes integrando com o MongoDB
+4. Ter um emulador Android configurado ou dispositivo físico conectado
+5. (Opcional, mas recomendado) Ter o Appium Inspector para facilitar a inspeção de elementos
 
